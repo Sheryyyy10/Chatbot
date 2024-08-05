@@ -1,0 +1,9 @@
+chatbot/
+    ├── management/
+    │   ├── __init__.py
+    │   ├── commands/
+    │   │   ├── __init__.py
+    │   │   ├── train_intent_classifier.py
+    ├── __init__.py
+    ├── models.py
+    ├── views.py
